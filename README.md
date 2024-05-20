@@ -25,8 +25,8 @@ Run the program and display the results
 
 ## PROGRAM:
 ```
-Register no:212223240153
-Developed by: SANTHOSH KUMAR R
+Register no:2122232400232
+Developed by: DILIP SANJAY M
 num=0
 with open("story.txt","r") as f1:
     for i in f1:
